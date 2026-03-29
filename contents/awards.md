@@ -1,3 +1,7 @@
+- **部委级** 2024-2025学年国家奖学金 （中华人民共和国教育部），2025年12月 Sun Weize
+- **部委级** 2024-2025学年国家奖学金 （中华人民共和国教育部），2025年12月 Du Xiao
+- **部委级** 2024-2025学年国家奖学金 （中华人民共和国教育部），2025年12月 Geng Qingwang
+- **部委级** 2024-2025学年国家奖学金 （中华人民共和国教育部），2025年12月 Li Xiaomeng
 - **国际级** 数维杯国际大学生数学建模挑战赛（IMCM）一等奖（Meritorious Winner）（中国国际科学技术合作协会、内蒙古创新教育学会），2026年1月 Tang Wuge, Wang Fuhan, Zhao Xuan
 - **国际级** 数维杯国际大学生数学建模挑战赛（IMCM）二等奖（Honorable Mention）（中国国际科学技术合作协会、内蒙古创新教育学会），2026年1月 Li Guowen, Sheng Zining, Shi Enchen
 - **国际级** 数维杯国际大学生数学建模挑战赛（IMCM）二等奖（Honorable Mention）（中国国际科学技术合作协会、内蒙古创新教育学会），2026年1月 Zhao Yufei, Feng Yifei, Xu Yuting
