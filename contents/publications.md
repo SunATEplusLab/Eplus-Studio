@@ -1,13 +1,12 @@
 #### Conference Papers (Accepted/Submitted)
 
 - <strong>S. Li</strong>, X. Li (2026). Trustworthy and Interpretable Wind Power Forecasting: A Probabilistic MLP-RF Hybrid Framework with LIME and KDE. <strong>2026 IEEE 8th International Conference on Communications, Information System and Computer Engineering (IEEE-CISCE)</strong>.
-
+- **L. Zhao**, B. Zhang, X. Du, W. Xu, Y. Zhang, X. Li(2026). Synergistic Predictive Intelligence: A Hybrid MLP-DT Framework for Job Market Dynamics with Generative LSTM Augmentation and Local Interpretability.  **2026 3rd International Conference on Machine Learning and Neural Networks (MLNN 2026)**
+- **L. Zhao(2026)**. Auditing Pseudo-Regression Risk in Clustered Panel Machine Learning: A Multi-Stage Diagnostic Framework with ICC Screening, RollingOrigin Validation, Group Demeaned Validation, and LOCO-CV. **2026 3rd International Conference on Machine Learning and Neural Networks (MLNN 2026)**
+- **X. Li**, X. Du, L. Zhao, M. Maimaitimin, L. Tang, N. Xiemuxiding (2026). MIC-BiLSTM: An Interpretable Deep Learning Framework for Real Estate Asset Pricing in High Dimensional Markets. **The 2nd International Conference on Smart City and Sustainable Development (SCSD 2026).**
 - <strong>Y. Zhao</strong>, X. Du, S. Li, S. Li (2026). Deep Adversarial Synthesis Coupled with Spatio-Temporal Attention Distillation for Interpretable Stroke Risk Stratification. <strong>The 5th International Conference on Electronics Technology and Artificial Intelligence (ETAI)</strong>.
-
 - <strong>G. Li</strong> (2025). Beyond the Data: Developing a Strategic Barometer for China's Pet Industry via a Novel Entropy-CV-Game Theory Fusion Model. <strong>2025 4th International Conference on Artificial Intelligence and Education (ICAIE)</strong>.
-
 - <strong>W. Sun</strong>, Q. Geng, X. Du, Y. Lou (2025). Research on Typhoon Classification and Track Prediction Based on Integrated Models. <strong>2025 5th International Conference on Artificial Intelligence, Automation and High Performance Computing (AIAHPC)</strong>. [[Paper]](https://ieeexplore.ieee.org/document/11290614)
-
 - <strong>W. Sun</strong> (2024). Cross-network Intrusion Detection Based On Self-attention Mechanism Hybrid Neural Network. <strong>2024 International Conference on Image Processing, Computer Vision and Machine Learning (ICICML)</strong>. [[Paper]](https://doi.org/10.1109/ICICML63543.2024.10958130)
 
 
